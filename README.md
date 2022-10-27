@@ -1,2 +1,2 @@
-# task-rtk
+# Task-rtk
 Task app with redux toolkit
